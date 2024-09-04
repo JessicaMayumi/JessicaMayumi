@@ -46,6 +46,6 @@
 
 <h2>▸ ▸ Principais Projetos ◂ ◂</h2>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JessicaMayumi&repo=Aumigo&theme=dracula)](https://github.com/JessicaMayumi/Aumigo)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JessicaMayumi&repo=Aumigo&theme=dracula&line_height=3)](https://github.com/JessicaMayumi/Aumigo)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JessicaMayumi&repo=codigos_2024&theme=dracula)](https://github.com/JessicaMayumi/codigos_2024)
 
