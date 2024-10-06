@@ -6,6 +6,8 @@
 
     ‣ Cursando TI | Instituto Federal Catarinense - Câmpus Blumenau, SC
 
+    ‣ Cursando Engenharia de Dados | DNC
+
     ‣ Amante de Programação 💖
 
 ![May's GitHub stats](https://github-readme-stats.vercel.app/api?username=JessicaMayumi&rank_icon=github&theme=dracula)
