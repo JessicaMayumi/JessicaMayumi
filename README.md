@@ -4,7 +4,7 @@
 
     ‣ Desenvolvedora Full Stack
 
-    ‣ Cursando TI | Instituto Federal Catarinense - Câmpus Blumenau, SC
+    ‣ Formada em TI | Instituto Federal Catarinense - Câmpus Blumenau, SC
 
     ‣ Cursando Engenharia de Dados | DNC
 
