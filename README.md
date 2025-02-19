@@ -6,6 +6,8 @@
 
     ‣ Formada em TI | Instituto Federal Catarinense - Câmpus Blumenau, SC
 
+    ‣ Cursando Bacharelado em Ciências da Computação | FURB - Fase 1
+
     ‣ Cursando Engenharia de Dados | DNC
 
     ‣ Amante de Programação 💖
