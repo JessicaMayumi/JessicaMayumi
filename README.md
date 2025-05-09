@@ -50,7 +50,7 @@
 
 <h2>▸ ▸ Principais Projetos ◂ ◂</h2>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JessicaMayumi&repo=ml-playround&theme=dracula)](https://github.com/JessicaMayumi/ml-playround)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JessicaMayumi&repo=ml-playground&theme=dracula)](https://github.com/JessicaMayumi/ml-playground)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JessicaMayumi&repo=Aumigo&theme=dracula)](https://github.com/JessicaMayumi/Aumigo)
 
 
