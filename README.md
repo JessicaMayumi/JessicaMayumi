@@ -5,7 +5,7 @@
 <h2>▸ ▸ Sobre Mim ◂ ◂</h2>
 
 ![Typing Text Example](assets/typewriter.gif)
-    <img align="right" top="300" height="200" border="50px" alt="GIF" src="assets\cattyping.gif">
+    <img align="right" top="500" height="200" padding-right="200px" alt="GIF" src="assets\cattyping.gif">
 
 ‣ Desenvolvedora Full Stack 
 
