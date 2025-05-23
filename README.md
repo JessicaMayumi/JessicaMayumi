@@ -7,15 +7,15 @@
 ![Typing Text Example](assets/typewriter.gif)
     <img align="right" top="500" height="200" border="50px" alt="GIF" src="assets\cattyping.gif">
 
-    ‣ Desenvolvedora Full Stack 
+‣ Desenvolvedora Full Stack 
 
-    ‣ Formada em TI | Instituto Federal Catarinense - Câmpus Blumenau, SC
+‣ Formada em TI | Instituto Federal Catarinense - Câmpus Blumenau, SC
 
-    ‣ Cursando Bacharelado em Ciências da Computação | FURB - Fase 1
+‣ Cursando Bacharelado em Ciências da Computação | FURB - Fase 1
 
-    ‣ Cursando Engenharia de Dados | DNC
+‣ Cursando Engenharia de Dados | DNC
 
-    ‣ Amante de Programação 💖
+‣ Amante de Programação 💖
 
 
 
