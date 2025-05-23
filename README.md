@@ -1,17 +1,21 @@
 <h1>Olá! Eu sou a Mayumi 🌸 </h1>
 
+
+
 <h2>▸ ▸ Sobre Mim ◂ ◂</h2>
 
 ![Typing Text Example](assets/typewriter.gif)
+<img align="right" top="500" height="200" alt="GIF" src="assets\cattyping.gif">
 
-<img align="right" style="margin-left: 20px;" height="300" width="400" alt="GIF" src="assets/cattyping.gif">
-<ul>
-  <li>Desenvolvedora Full Stack</li>
-  <li>Formada em TI | Instituto Federal Catarinense - Câmpus Blumenau, SC</li>
-  <li>Cursando Bacharelado em Ciências da Computação | FURB - Fase 1</li>
-  <li>Cursando Engenharia de Dados | DNC</li> 
-  <li>Amante de Programação 💖</li>
-</ul>
+    ‣ Desenvolvedora Full Stack 
+
+    ‣ Formada em TI | Instituto Federal Catarinense - Câmpus Blumenau, SC
+
+    ‣ Cursando Bacharelado em Ciências da Computação | FURB - Fase 1
+
+    ‣ Cursando Engenharia de Dados | DNC
+
+    ‣ Amante de Programação 💖
 
 
 
