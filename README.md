@@ -1,8 +1,13 @@
 <h1>Olá! Eu sou a Mayumi 🌸 </h1>
 
+
+
 <h2>▸ ▸ Sobre Mim ◂ ◂</h2>
 
-    ‣ Desenvolvedora Full Stack
+![Typing Text Example](assets/typewriter.gif)
+<img align="right" top="500" height="300" width="400" alt="GIF" src="assets\cattyping.gif">
+
+    ‣ Desenvolvedora Full Stack 
 
     ‣ Formada em TI | Instituto Federal Catarinense - Câmpus Blumenau, SC
 
@@ -11,6 +16,8 @@
     ‣ Cursando Engenharia de Dados | DNC
 
     ‣ Amante de Programação 💖
+
+
 
 ![May's GitHub stats](https://github-readme-stats.vercel.app/api?username=JessicaMayumi&rank_icon=github&theme=dracula)
 
