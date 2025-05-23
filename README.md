@@ -1,8 +1,8 @@
-<h1>Olá! Eu sou a Mayumi 🌸 </h1>
+<h1 align="center">Olá! Eu sou a Mayumi 🌸 </h1>
 
 
 
-<h2>▸ ▸ Sobre Mim ◂ ◂</h2>
+<h2 align="center">▸ ▸ Sobre Mim ◂ ◂</h2>
 
 ![Typing Text Example](assets/typewriter.gif)
     <img align="right" top="500" height="200" alt="GIF" hspace="20" src="assets\cattyping.gif">
