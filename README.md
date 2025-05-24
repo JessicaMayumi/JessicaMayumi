@@ -14,7 +14,7 @@
         <p>‣ Amante de Programação 💖 </p>
     </div>
     <div>
-        <img align="right" top="500" height="200" alt="GIF" hspace="20" src="assets\cattyping.gif">
+        <img align="right" top="500" height="200" alt="GIF" src="assets\cattyping.gif">
     </div>
 </section>
 
