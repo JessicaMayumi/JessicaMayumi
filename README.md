@@ -9,9 +9,6 @@
 </div>
 
 <section align="left">
-    <div>
-        <img src="assets\cattyping.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="code" >
-    </div>
     <div align="left">
         <br>
         <p>‣ Desenvolvedora Full Stack </p>
@@ -20,6 +17,9 @@
         <p>‣ Formada em Engenharia de Dados | DNC </p>
         <p>‣ Trabalhando com modelos de Machine Learning e Inteligência Artificial.</p>
         <p>‣ Amante de Programação 💖 </p>
+    </div>
+    <div>
+        <img src="assets\cattyping.gif" min-width="400px" max-width="400px" width="400px" align="rigth" alt="code" >
     </div>
 </section>
 
