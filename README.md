@@ -10,9 +10,9 @@
 
 <section style="display: flex; justify-content: center; align-items: center; gap: 20px; text-align: left;">
     <div>
-        <img hspace="20" src="assets\cattyping.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="code">
+        <img hspace="20" src="assets\cattyping.gif" min-width="400px" max-width="400px" width="400px" align="left" alt="code">
     </div>
-    <div align="left">
+    <div align="rigth">
         <br>
         <p>‣ Desenvolvedora Full Stack </p>
         <p>‣ Formada em TI | Instituto Federal Catarinense - Câmpus Blumenau, SC </p>
