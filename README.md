@@ -10,7 +10,7 @@
 
 <section style="display: flex; justify-content: center; align-items: center; gap: 20px; text-align: left;">
     <div>
-        <img hspace="20" src="assets\cattyping.gif" min-width="300px" max-width="300px" width="400px" align="left" alt="code">
+        <img src="assets\cattyping.gif" min-width="300px" max-width="300px" width="400px" align="left" alt="code">
     </div>
     <div align="rigth">
         <br>
