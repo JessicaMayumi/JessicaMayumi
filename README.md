@@ -24,9 +24,12 @@
 
 <h2 align="center">▸ ▸ Contato ◂ ◂</h2>
 <br>
+<p align="center">
 
-[![Email](https://skillicons.dev/icons?i=gmail&theme=light)](https://criarmeulink.com.br/u/1725476906)
-[![Linkedin](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/jessicamsk/)
+    [![Email](https://skillicons.dev/icons?i=gmail&theme=light)](https://criarmeulink.com.br/u/1725476906)
+    [![Linkedin](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/jessicamsk/)
+
+</p>
 
 <h2>▸ ▸ Tecnologias ◂ ◂</h2>
 
@@ -54,9 +57,7 @@
 
 
 <p align="center">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=flask,django,py,mongodb,mysql" />
-  </a>
 </p>
 
 <br> <br>
