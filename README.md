@@ -19,7 +19,7 @@
         <p>‣ Amante de Programação 💖 </p>
     </div>
     <div>
-        <img src="assets\cattyping.gif" min-width="400px" max-width="400px" width="400px" align="rigth" alt="code" >
+        <img src="assets\cattyping.gif" min-width="300px" max-width="300px" width="300px" align="rigth" alt="code" >
     </div>
 </section>
 
