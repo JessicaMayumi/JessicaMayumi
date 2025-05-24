@@ -26,8 +26,8 @@
 <br>
 <p align="center">
 
-    [![Email](https://skillicons.dev/icons?i=gmail&theme=light)](https://criarmeulink.com.br/u/1725476906)
-    [![Linkedin](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/jessicamsk/)
+[![Email](https://skillicons.dev/icons?i=gmail&theme=light)](https://criarmeulink.com.br/u/1725476906)
+[![Linkedin](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/jessicamsk/)
 
 </p>
 
