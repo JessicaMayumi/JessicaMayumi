@@ -13,6 +13,7 @@
         <img align="right" top="500" height="200" alt="GIF" hspace="20" src="assets\cattyping.gif">
     </div>
     <div>
+        <br>
         <p>‣ Desenvolvedora Full Stack </p>
         <p>‣ Formada em TI | Instituto Federal Catarinense - Câmpus Blumenau, SC </p>
         <p>‣ Cursando Bacharelado em Ciências da Computação | FURB - Fase 1 </p>
