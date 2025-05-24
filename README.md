@@ -25,7 +25,7 @@
 
 <h2 align="center">▸ ▸ Contatos ◂ ◂</h2>
 <br>
-<div style="display: flex; justify-content: center; align-items: center; gap:15px;">
+<div align="center">
     <a href="https://criarmeulink.com.br/u/1725476906">
     <img src="https://skillicons.dev/icons?i=gmail&theme=light" />
   </a>
@@ -38,8 +38,8 @@
 
 <br>
 <div align="center">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,python,pycharm,flask,numpy,tensorflow"/> <br>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,java,mysql,react,javascript,django"/>
+    <img height="50px" src="https://go-skill-icons.vercel.app/api/icons?i=pandas,python,pycharm,flask,numpy,tensorflow"/> <br>
+    <img height="50px" src="https://go-skill-icons.vercel.app/api/icons?i=html,css,java,mysql,react,javascript,django"/>
 </div>
 
 <br> <br>
