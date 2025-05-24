@@ -27,11 +27,10 @@
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://criarmeulink.com.br/u/1725476906)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jessicamsk/)
-
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 
 <h2>▸ ▸ Tecnologias ◂ ◂</h2>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JessicaMayumi&hide_progress=true&theme=dracula)
 <br>
 <div style="display: inline_block">
     <br>
@@ -53,6 +52,14 @@
     <img align="center" alt="" src="" />
    
 </div>
+
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flask,django,py,mongodb,mysql" />
+  </a>
+</p>
+
 <br> <br>
 
 <h2>▸ ▸ Principais Projetos ◂ ◂</h2>
