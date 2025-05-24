@@ -1,8 +1,8 @@
-<h1>Olá! Eu sou a Mayumi 🌸 </h1>
+<h1 align="center">Olá! Eu sou a Mayumi 🌸 </h1>
 
 
 
-<h2>▸ ▸ Sobre Mim ◂ ◂</h2>
+<h2 align="center">▸ ▸ Sobre Mim ◂ ◂</h2>
 
 ![Typing Text Example](assets/typewriter.gif)
     <img align="right" top="500" height="200" alt="GIF" hspace="20" src="assets\cattyping.gif">
@@ -22,12 +22,11 @@
 ![May's GitHub stats](https://github-readme-stats.vercel.app/api?username=JessicaMayumi&rank_icon=github&theme=dracula)
 
 
-<h2>▸ ▸ Contato ◂ ◂</h2>
+<h2 align="center">▸ ▸ Contato ◂ ◂</h2>
 <br>
 
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://criarmeulink.com.br/u/1725476906)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jessicamsk/)
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+[![Email](https://skillicons.dev/icons?i=gmail&theme=light)](https://criarmeulink.com.br/u/1725476906)
+[![Linkedin](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/jessicamsk/)
 
 <h2>▸ ▸ Tecnologias ◂ ◂</h2>
 
@@ -62,7 +61,7 @@
 
 <br> <br>
 
-<h2>▸ ▸ Principais Projetos ◂ ◂</h2>
+<h2 align="center">▸ ▸ Principais Projetos ◂ ◂</h2>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JessicaMayumi&repo=ml-playground&theme=dracula)](https://github.com/JessicaMayumi/ml-playground)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JessicaMayumi&repo=Aumigo&theme=dracula)](https://github.com/JessicaMayumi/Aumigo)
