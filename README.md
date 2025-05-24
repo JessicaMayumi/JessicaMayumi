@@ -10,9 +10,9 @@
 
 <section align="left">
     <div>
-        <img src="assets\cattyping.gif" min-width="400px" max-width="400px" width="400px" align="left" alt="code" >
+        <img src="assets\cattyping.gif" min-width="400px" max-width="400px" width="400px" align="rigth" alt="code" >
     </div>
-    <div align="rigth">
+    <div align="left">
         <br>
         <p>‣ Desenvolvedora Full Stack </p>
         <p>‣ Formada em TI | Instituto Federal Catarinense - Câmpus Blumenau, SC </p>
