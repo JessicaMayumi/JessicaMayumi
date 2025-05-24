@@ -7,14 +7,14 @@
 ![Typing Text Example](assets/typewriter.gif)
 <section style="display: flex; justify-content: center; align-items: center; gap: 20px; text-align: left;">
     <div>
+        <img align="right" top="500" height="200" alt="GIF" hspace="20" src="assets\cattyping.gif">
+    </div>
+    <div>
         <p>‣ Desenvolvedora Full Stack </p>
         <p>‣ Formada em TI | Instituto Federal Catarinense - Câmpus Blumenau, SC </p>
         <p>‣ Cursando Bacharelado em Ciências da Computação | FURB - Fase 1 </p>
         <p>‣ Cursando Engenharia de Dados | DNC </p>
         <p>‣ Amante de Programação 💖 </p>
-    </div>
-    <div>
-        <img align="right" top="500" height="200" alt="GIF" src="assets\cattyping.gif">
     </div>
 </section>
 
