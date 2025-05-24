@@ -55,6 +55,7 @@
     </a>
 </div>
 <!-- Fim da seção "Principais Projetos" -->
+<br> <br>
 
 <div align="center">
   <p>Feito com :heart: por <b>Mayumi</b>.</p>
