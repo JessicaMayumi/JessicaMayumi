@@ -5,19 +5,18 @@
 <h2 align="center">▸ ▸ Sobre Mim ◂ ◂</h2>
 
 ![Typing Text Example](assets/typewriter.gif)
-    <img align="right" top="500" height="200" alt="GIF" hspace="20" src="assets\cattyping.gif">
-
-<p>‣ Desenvolvedora Full Stack </p>
-<br>
-<p>‣ Formada em TI | Instituto Federal Catarinense - Câmpus Blumenau, SC </p>
-<br>
-<p>‣ Cursando Bacharelado em Ciências da Computação | FURB - Fase 1 </p>
-<br>
-<p>‣ Cursando Engenharia de Dados | DNC </p>
-<br>
-<p>‣ Amante de Programação 💖 </p>
-
-
+<section style="display: flex; justify-content: center; align-items: center; gap: 20px; text-align: left;">
+    <div>
+        <p>‣ Desenvolvedora Full Stack </p>
+        <p>‣ Formada em TI | Instituto Federal Catarinense - Câmpus Blumenau, SC </p>
+        <p>‣ Cursando Bacharelado em Ciências da Computação | FURB - Fase 1 </p>
+        <p>‣ Cursando Engenharia de Dados | DNC </p>
+        <p>‣ Amante de Programação 💖 </p>
+    </div>
+    <div>
+        <img align="right" top="500" height="200" alt="GIF" hspace="20" src="assets\cattyping.gif">
+    </div>
+</section>
 
 ![May's GitHub stats](https://github-readme-stats.vercel.app/api?username=JessicaMayumi&rank_icon=github&theme=dracula)
 
