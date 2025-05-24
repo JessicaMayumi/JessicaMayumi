@@ -17,41 +17,29 @@
         <p>‣ Desenvolvedora Full Stack </p>
         <p>‣ Formada em TI | Instituto Federal Catarinense - Câmpus Blumenau, SC </p>
         <p>‣ Cursando Bacharelado em Ciências da Computação | FURB - Fase 1 </p>
-        <p>‣ Cursando Engenharia de Dados | DNC </p>
+        <p>‣ Formada em Engenharia de Dados | DNC </p>
+        <p>‣ Trabalhando com modelos de Machine Learning e Inteligência Artificial.</p>
         <p>‣ Amante de Programação 💖 </p>
     </div>
 </section>
 
-<h2 align="center">▸ ▸ Contato ◂ ◂</h2>
+<h2 align="center">▸ ▸ Contatos ◂ ◂</h2>
 <br>
-<p align="center">
+<div style="display: flex; justify-content: center; align-items: center; gap:15px;">
     <a href="https://criarmeulink.com.br/u/1725476906">
     <img src="https://skillicons.dev/icons?i=gmail&theme=light" />
   </a>
     <a href="https://www.linkedin.com/in/jessicamsk/">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=light" />
   </a>
-</p>
+</div>
 
 <h2 align="center">▸ ▸ Tecnologias ◂ ◂</h2>
 
 <br>
 <div align="center">
-	<code><img width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML" title="HTML"/></code>
-	<code><img width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" alt="CSS" title="CSS"/></code>
-	<code><img width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" title="JavaScript"/></code>
-	<code><img width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" alt="React" title="React"/></code>
-	<code><img width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" alt="Java" title="Java"/></code>
-	<code><img width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c%23.png" alt="C#" title="C#"/></code>
-	<code><img width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/django.png" alt="Django" title="Django"/></code>
-	<code><img width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" alt="MySQL" title="MySQL"/></code>
-	<code><img width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pycharm.png" alt="PyCharm" title="PyCharm"/></code>
-	<code><img width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/flask.png" alt="Flask" title="Flask"/></code>
-	<code><img width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/numpy.png" alt="NumPy" title="NumPy"/></code>
-	<code><img width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pandas.png" alt="Pandas" title="Pandas"/></code>
-	<code><img width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png" alt="mongoDB" title="mongoDB"/></code>
-	<code><img width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/></code>
-	<code><img width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tensorflow.png" alt="TensorFlow" title="TensorFlow"/></code>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,python,pycharm,flask,numpy,tensorflow"/> <br>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,java,mysql,react,javascript,django"/>
 </div>
 
 <br> <br>
