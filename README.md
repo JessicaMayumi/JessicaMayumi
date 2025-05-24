@@ -4,7 +4,10 @@
 
 <h2 align="center">▸ ▸ Sobre Mim ◂ ◂</h2>
 
-![Typing Text Example](assets/typewriter.gif)
+<div style="display: flex; justify-content: center; align-items: center; margin: 20px 0;">
+    <img src="assets/typewriter.gif" alt="Typing Text Example">
+</div>
+
 <section style="display: flex; justify-content: center; align-items: center; gap: 20px; text-align: left;">
     <div>
         <img align="right" top="500" height="200" alt="GIF" hspace="20" src="assets\cattyping.gif">
@@ -18,8 +21,10 @@
     </div>
 </section>
 
-![May's GitHub stats](https://github-readme-stats.vercel.app/api?username=JessicaMayumi&rank_icon=github&theme=dracula)
-
+<div style="display: flex; justify-content: center; align-items: center; margin: 20px 0;">
+    <img src="https://github-readme-stats.vercel.app/api?username=JessicaMayumi&rank_icon=github&theme=dracula" 
+         alt="May's GitHub stats">
+</div>
 
 <h2 align="center">▸ ▸ Contato ◂ ◂</h2>
 <br>
@@ -65,7 +70,15 @@
 
 <h2 align="center">▸ ▸ Principais Projetos ◂ ◂</h2>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JessicaMayumi&repo=ml-playground&theme=dracula)](https://github.com/JessicaMayumi/ml-playground)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JessicaMayumi&repo=Aumigo&theme=dracula)](https://github.com/JessicaMayumi/Aumigo)
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap; margin: 20px 0;">
+    <a href="https://github.com/JessicaMayumi/ml-playground">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=JessicaMayumi&repo=ml-playground&theme=dracula" 
+             alt="ML Playground">
+    </a>
+    <a href="https://github.com/JessicaMayumi/Aumigo">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=JessicaMayumi&repo=Aumigo&theme=dracula" 
+             alt="Aumigo">
+    </a>
+</div>
 
 
