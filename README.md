@@ -25,10 +25,12 @@
 <h2 align="center">▸ ▸ Contato ◂ ◂</h2>
 <br>
 <p align="center">
-
-[![Email](https://skillicons.dev/icons?i=gmail&theme=light)](https://criarmeulink.com.br/u/1725476906)
-[![Linkedin](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/jessicamsk/)
-
+    <a href="https://criarmeulink.com.br/u/1725476906">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=light" />
+  </a>
+    <a href="https://www.linkedin.com/in/jessicamsk/">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=light" />
+  </a>
 </p>
 
 <h2>▸ ▸ Tecnologias ◂ ◂</h2>
