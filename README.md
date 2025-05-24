@@ -10,9 +10,9 @@
 
 <section style="display: flex; justify-content: center; align-items: center; gap: 20px; text-align: left;">
     <div>
-        <img align="right" top="500" height="200" alt="GIF" hspace="20" src="assets\cattyping.gif">
+        <img hspace="20" src="assets\cattyping.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="code">
     </div>
-    <div>
+    <div align="left">
         <br>
         <p>‣ Desenvolvedora Full Stack </p>
         <p>‣ Formada em TI | Instituto Federal Catarinense - Câmpus Blumenau, SC </p>
@@ -55,6 +55,11 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=JessicaMayumi&repo=Aumigo&theme=dracula" 
              alt="Aumigo">
     </a>
+</div>
+
+<div align="center">
+  <p>Feito com :heart: por <b>Mayumi</b>.</p>
+  <p>Ainda em desenvolvimento...</p>
 </div>
 
 
