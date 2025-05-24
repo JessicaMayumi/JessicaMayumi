@@ -10,7 +10,7 @@
 
 <section align="left">
     <div>
-        <img src="assets\cattyping.gif" min-width="30px" max-width="30px" width="300px" align="left" alt="code" >
+        <img src="assets\cattyping.gif" min-width="400px" max-width="400px" width="400px" align="left" alt="code" >
     </div>
     <div align="rigth">
         <br>
