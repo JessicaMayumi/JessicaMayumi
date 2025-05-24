@@ -1,7 +1,6 @@
 <h1 align="center">Olá! Eu sou a Mayumi 🌸 </h1>
 
-
-
+<!-- Início da seção "Sobre mim" -->
 <h2 align="center">▸ ▸ Sobre Mim ◂ ◂</h2>
 
 <div align="center">
@@ -15,8 +14,9 @@
 <p align="left">‣ Formada em Engenharia de Dados | DNC</p>
 <p align="left">‣ Trabalhando com modelos de Machine Learning e Inteligência Artificial.</p>
 <p align="left">‣ Amante de Programação 💖</p>
+<!-- Fim da seção "Sobre mim" -->
 
-
+<!-- Início da seção "Contatos" -->
 <h2 align="center">▸ ▸ Contatos ◂ ◂</h2>
 <br>
 <div align="center">
@@ -27,7 +27,9 @@
     <img src="https://skillicons.dev/icons?i=linkedin&theme=light" />
   </a>
 </div>
+<!-- Fim da seção "Contatos" -->
 
+<!-- Início da seção "Tecnologias" -->
 <h2 align="center">▸ ▸ Tecnologias ◂ ◂</h2>
 
 <br>
@@ -35,9 +37,11 @@
     <img height="50px" src="https://go-skill-icons.vercel.app/api/icons?i=pandas,python,pycharm,flask,numpy,tensorflow"/> <br>
     <img height="50px" src="https://go-skill-icons.vercel.app/api/icons?i=html,css,java,mysql,react,javascript,django"/>
 </div>
+<!-- Fim da seção "Tecnologias" -->
 
 <br> <br>
 
+<!-- Início da seção "Principais Projetos" -->
 <h2 align="center">▸ ▸ Principais Projetos ◂ ◂</h2>
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap; margin: 20px 0;">
@@ -50,6 +54,7 @@
              alt="Aumigo">
     </a>
 </div>
+<!-- Fim da seção "Principais Projetos" -->
 
 <div align="center">
   <p>Feito com :heart: por <b>Mayumi</b>.</p>
