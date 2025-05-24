@@ -4,14 +4,15 @@
 
 <h2 align="center">▸ ▸ Sobre Mim ◂ ◂</h2>
 
-<div style="display: flex; justify-content: center; align-items: center; margin: 20px 0;">
-    <img src="assets/typewriter.gif" alt="Typing Text Example">
+<div align="center">
+    <img src="assets/typewriter.gif" alt="Typing Text">
 </div>
 
-<section style="display: flex; justify-content: center; align-items: center; gap: 20px; text-align: left;">
+<section align="left">
     <div>
-        <img src="assets\cattyping.gif" min-width="250px" max-width="250px" width="250px" align="left" alt="code">
+        <img src="assets\cattyping.gif" min-width="30px" max-width="30px" width="300px" align="left" alt="code" >
     </div>
+
     <div align="rigth">
         <br>
         <p>‣ Desenvolvedora Full Stack </p>
