@@ -8,7 +8,7 @@
     <img src="assets/typewriter.gif" alt="Typing Text">
 </div>
 
-<section align="left">
+<section align="left" style="display:flex; flex-direction:row; gap: 10px;">
     <div align="left">
         <br>
         <p>‣ Desenvolvedora Full Stack </p>
