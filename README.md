@@ -12,7 +12,6 @@
     <div>
         <img src="assets\cattyping.gif" min-width="30px" max-width="30px" width="300px" align="left" alt="code" >
     </div>
-
     <div align="rigth">
         <br>
         <p>‣ Desenvolvedora Full Stack </p>
