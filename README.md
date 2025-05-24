@@ -7,15 +7,15 @@
 ![Typing Text Example](assets/typewriter.gif)
     <img align="right" top="500" height="200" alt="GIF" hspace="20" src="assets\cattyping.gif">
 
-‣ Desenvolvedora Full Stack 
-
-‣ Formada em TI | Instituto Federal Catarinense - Câmpus Blumenau, SC
-
-‣ Cursando Bacharelado em Ciências da Computação | FURB - Fase 1
-
-‣ Cursando Engenharia de Dados | DNC
-
-‣ Amante de Programação 💖
+<p>‣ Desenvolvedora Full Stack </p>
+<br>
+<p>‣ Formada em TI | Instituto Federal Catarinense - Câmpus Blumenau, SC </p>
+<br>
+<p>‣ Cursando Bacharelado em Ciências da Computação | FURB - Fase 1 </p>
+<br>
+<p>‣ Cursando Engenharia de Dados | DNC </p>
+<br>
+<p>‣ Amante de Programação 💖 </p>
 
 
 
@@ -33,7 +33,7 @@
   </a>
 </p>
 
-<h2>▸ ▸ Tecnologias ◂ ◂</h2>
+<h2 align="center">▸ ▸ Tecnologias ◂ ◂</h2>
 
 <br>
 <div style="display: inline_block">
