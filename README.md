@@ -8,20 +8,14 @@
     <img src="assets/typewriter.gif" alt="Typing Text">
 </div>
 
-<section align="left" style="display:flex; flex-direction:row; gap: 10px;">
-    <div align="left">
-        <br>
-        <p>‣ Desenvolvedora Full Stack </p>
-        <p>‣ Formada em TI | Instituto Federal Catarinense - Câmpus Blumenau, SC </p>
-        <p>‣ Cursando Bacharelado em Ciências da Computação | FURB - Fase 1 </p>
-        <p>‣ Formada em Engenharia de Dados | DNC </p>
-        <p>‣ Trabalhando com modelos de Machine Learning e Inteligência Artificial.</p>
-        <p>‣ Amante de Programação 💖 </p>
-    </div>
-    <div>
-        <img src="assets\cattyping.gif" min-width="300px" max-width="300px" width="300px" align="rigth" alt="code" >
-    </div>
-</section>
+<img src="assets\cattyping.gif" min-width="300px" max-width="300px" width="300px" align="right" alt="code">
+<p align="left">‣ Desenvolvedora Full Stack</p>
+<p align="left">‣ Formada em TI | Instituto Federal Catarinense - Câmpus Blumenau, SC</p>
+<p align="left">‣ Cursando Bacharelado em Ciências da Computação | FURB - Fase 1</p>
+<p align="left">‣ Formada em Engenharia de Dados | DNC</p>
+<p align="left">‣ Trabalhando com modelos de Machine Learning e Inteligência Artificial.</p>
+<p align="left">‣ Amante de Programação 💖</p>
+
 
 <h2 align="center">▸ ▸ Contatos ◂ ◂</h2>
 <br>
