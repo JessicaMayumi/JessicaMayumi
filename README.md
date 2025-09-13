@@ -3,7 +3,10 @@
 <!-- Início da seção "Sobre mim" -->
 <h2 align="center">▸ ▸ Sobre Mim ◂ ◂</h2>
 
-<div align="center">
+<!--<div align="center">
+    <img src="assets/typewriter.gif" alt="Typing Text">
+</div>-->
+<div align="left">
     <img src="assets/typewriter.gif" alt="Typing Text">
 </div>
 
