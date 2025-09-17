@@ -1,4 +1,4 @@
-<h1 align="center">Olá! Eu sou a Mayumi 🌸 </h1>
+<h1 align="center">Olá! Eu sou a Mayumi 🌸</h1>
 
 <!-- Início da seção "Sobre mim" -->
 <h2 align="center">▸ ▸ Sobre Mim ◂ ◂</h2>
