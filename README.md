@@ -8,7 +8,7 @@
 </div>
 
 <img src="assets\cattyping.gif" min-width="100px" max-width="300px" width="300px" align="right" alt="code">
-<p align="left">‣ Cientista de Dados</p>
+<p align="left">‣ Cientista de Dados e Engenheira de IA</p>
 <p align="left">‣ Formada em TI | Instituto Federal Catarinense - Câmpus Blumenau, SC</p>
 <p align="left">‣ Cursando Bacharelado em Ciências da Computação | FURB - Fase 1</p>
 <p align="left">‣ Formada em Engenharia de Dados | DNC</p>
