@@ -11,9 +11,10 @@
 <p align="left">‣ Cientista de Dados e Engenheira de IA</p>
 <p align="left">‣ Formada em TI | Instituto Federal Catarinense - Câmpus Blumenau, SC</p>
 <p align="left">‣ Cursando Bacharelado em Ciências da Computação | FURB - Fase 3</p>
+<p align="left">‣ Cursando Bacharelado em Ciências de Dados | FURB - Fase 1</p>
 <p align="left">‣ Formada em Engenharia de Dados | DNC</p>
 <p align="left">‣ Desenvolvendo Agentes com IA e Machine Learning.</p>
-<p align="left">‣ Amante de Programação 💖</p>
+<p align="left">‣ Amante de IA 💖</p>
 <!-- Fim da seção "Sobre mim" -->
 
 <!-- Início da seção "Contatos" -->
